@@ -1,0 +1,7 @@
+baseURL = "https://recipes.novis.co"
+languageCode = "en-gb"
+title = "Novis - Recipes"
+theme = "recipes"
+[permalinks]
+  posts = "/recipe/:title/"
+  pages = "/:title/"
