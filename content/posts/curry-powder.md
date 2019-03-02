@@ -1,7 +1,7 @@
 ---
-title: 'Curry Powder'
+title: 'Basic Curry Powder'
 date: 2019-03-02T16:27:59Z
-draft: true
+draft: false
 ---
 
 # Basic Curry Powder
